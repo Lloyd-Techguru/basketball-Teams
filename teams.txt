@@ -1,16 +1,16 @@
-The NBA teams
+The NBA teams and their form
 
-Houston Rockets
-Golden State Warriors
-Denver Nuggets
-Toronto Raptors
-Los Angeles Clippers
-Detroit Pistons
-New Orleans Pelicans
-Los Angeles Lakers
-Boston Celtics
-Atlanta Hawks
-Cleveland Cavaliers
-Washington Wizards
-Sacramento Kings
-This are my best NBA teams
+Houston Rockets 2
+Golden State Warriors 1
+Denver Nuggets 3
+Toronto Raptors 5
+Los Angeles Clippers 6
+Detroit Pistons 4
+New Orleans Pelicans 7
+Los Angeles Lakers 9
+Boston Celtics 8
+Atlanta Hawks 13
+Cleveland Cavaliers 14
+Washington Wizards 10
+Sacramento Kings 11
+This are my best NBA teams and their current form.
