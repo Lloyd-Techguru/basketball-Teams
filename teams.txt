@@ -1,7 +1,7 @@
 The NBA teams and their form
 
  top-players
-Houston Rockets 2 James Harden
+Houston Rockets 2 James Harden 37 points
 Golden State Warriors 1 Burks
 Denver Nuggets 3 Murray
 Toronto Raptors 5 VanVleet
