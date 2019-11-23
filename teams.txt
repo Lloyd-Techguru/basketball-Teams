@@ -1,16 +1,16 @@
 The NBA teams and their form
 
-Houston Rockets 2
-Golden State Warriors 1
-Denver Nuggets 3
-Toronto Raptors 5
-Los Angeles Clippers 6
-Detroit Pistons 4
-New Orleans Pelicans 7
-Los Angeles Lakers 9
-Boston Celtics 8
-Atlanta Hawks 13
-Cleveland Cavaliers 14
-Washington Wizards 10
-Sacramento Kings 11
+Houston Rockets 2 James Harden
+Golden State Warriors 1 Burks
+Denver Nuggets 3 Murray
+Toronto Raptors 5 VanVleet
+Los Angeles Clippers 6 Leonard
+Detroit Pistons 4 Griffin 
+New Orleans Pelicans 7 Ingram
+Los Angeles Lakers 9 Davis
+Boston Celtics 8 Brown
+Atlanta Hawks 13 Bembry
+Cleveland Cavaliers 14 Sexton
+Washington Wizards 10 Beal 
+Sacramento Kings 11 Barnes
 This are my best NBA teams and their current form.
