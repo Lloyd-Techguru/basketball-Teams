@@ -13,4 +13,9 @@ Atlanta Hawks 13
 Cleveland Cavaliers 14
 Washington Wizards 10
 Sacramento Kings 11
+New York Knicks 17
+Miami Heat 16
+Indiana Pacers 20
+Milwauke Bucks 15
+Chicago Bulls 19
 This are my best NBA teams and their current form.
